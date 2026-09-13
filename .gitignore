@@ -1,0 +1,51 @@
+# ========================
+# MATLAB & Simulink
+# ========================
+*.asv
+*.slxc
+slprj/
+*.autosave
+*.m.bak
+*.mat
+codegen/
+*.mex*
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+*.egg-info/
+*.csv
+
+# ========================
+# Arduino & Embedded Builds
+# ========================
+build/
+*.hex
+*.elf
+*.bin
+.arduino/
+
+# ========================
+# CAD Temp / Lock Files
+# ========================
+*.~*
+*.tmp
+*.bak
+~$*
+
+# ========================
+# OS & Editor Metadata
+# ========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
